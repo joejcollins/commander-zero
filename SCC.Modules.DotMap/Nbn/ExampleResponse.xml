@@ -1,0 +1,925 @@
+﻿2000
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <SOAP-ENV:Body xmlns:gml="http://www.opengis.net/gml" xmlns:nbn="http://webservices.searchnbn.net/data" xmlns:nbnq="http://webservices.searchnbn.net/query" xmlns:ogc="http://www.opengis.net/ogc" xmlns:wfs="http://www.opengis.net/namespaces/wfs" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <SpeciesListResponse xmlns="http://webservices.searchnbn.net/data" xmlns:xsd="http://www.w3.org/2001/XMLSchema" NBNLogo="http://data.nbn.org.uk/images/NBNPower.gif" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://webservices.searchnbn.net/data" termsAndConditions="http://data.nbn.org.uk/help/popups/generalTerms.jsp" version="1.1">
+      <SpeciesList>
+        <Species taxonVersionKey="NHMSYS0000309284">
+          <ScientificName>Acaulon muticum</ScientificName>
+          <CommonName>Rounded Pygmy-moss</CommonName>
+          <Authority>(Brid.) Muell.Hal.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000008319">
+          <ScientificName>Adalia bipunctata</ScientificName>
+          <CommonName>2-spot Ladybird</CommonName>
+          <Authority>(Linnaeus, 1758)</Authority>
+          <TaxonReportingCategory>insect - beetle (Coleoptera)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000004336">
+          <ScientificName>Adoxa moschatellina</ScientificName>
+          <CommonName>Moschatel</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005626">
+          <ScientificName>Aeshna cyanea</ScientificName>
+          <CommonName>Southern Hawker</CommonName>
+          <Authority>(Muller, 1764)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005625">
+          <ScientificName>Aeshna grandis</ScientificName>
+          <CommonName>Brown Hawker</CommonName>
+          <Authority>(Linnaeus, 1758)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005627">
+          <ScientificName>Aeshna mixta</ScientificName>
+          <CommonName>Migrant Hawker</CommonName>
+          <Authority>Latreille, 1805</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000002102">
+          <ScientificName>Alisma lanceolatum</ScientificName>
+          <CommonName>Narrow-leaved Water-plantain</CommonName>
+          <Authority>With.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000002205">
+          <ScientificName>Allium ursinum</ScientificName>
+          <CommonName>Ramsons</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000309320">
+          <ScientificName>Amblystegium serpens</ScientificName>
+          <CommonName>Creeping Feather-moss</CommonName>
+          <Authority>(Hedw.) Bruch, Schimp. &amp;amp; W.Guembel</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000309372">
+          <ScientificName>Aphanorhegma patens</ScientificName>
+          <CommonName>Spreading Earth-moss</CommonName>
+          <Authority>(Hedw.) Lindb.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000527501">
+          <ScientificName>Aphelocheirus aestivalis</ScientificName>
+          <CommonName/>
+          <Authority>(Fabricius, 1794)</Authority>
+          <TaxonReportingCategory>insect - true bug (Hemiptera)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000080205">
+          <ScientificName>Arvicola terrestris</ScientificName>
+          <CommonName>European Water Vole</CommonName>
+          <Authority>(Linnaeus, 1758)</Authority>
+          <TaxonReportingCategory>terrestrial mammal</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036148">
+          <ScientificName>Atrichum undulatum</ScientificName>
+          <CommonName>Common Smoothcap</CommonName>
+          <Authority>(Hedw.) P.Beauv.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036665">
+          <ScientificName>Aulacomnium androgynum</ScientificName>
+          <CommonName>Bud-headed Groove-moss</CommonName>
+          <Authority>(Hedw.) Schwaegr.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036364">
+          <ScientificName>Barbula convoluta</ScientificName>
+          <CommonName>Lesser Bird's-claw Beard-moss</CommonName>
+          <Authority>Hedw.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036367">
+          <ScientificName>Barbula unguiculata</ScientificName>
+          <CommonName>Bird's-claw Beard-moss</CommonName>
+          <Authority>Hedw.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000544621">
+          <ScientificName>Barbus barbus</ScientificName>
+          <CommonName>Barbel</CommonName>
+          <Authority>(Linnaeus, 1758)</Authority>
+          <TaxonReportingCategory>bony fish (Actinopterygii)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000004355">
+          <ScientificName>Bidens tripartita</ScientificName>
+          <CommonName>Trifid Bur-marigold</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000008433">
+          <ScientificName>Brachycentrus subnubilus</ScientificName>
+          <CommonName/>
+          <Authority>Curtis, 1834</Authority>
+          <TaxonReportingCategory>insect - caddis fly (Trichoptera)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000309447">
+          <ScientificName>Brachythecium albicans</ScientificName>
+          <CommonName>Whitish Feather-moss</CommonName>
+          <Authority>(Hedw.) Bruch, Schimp. &amp;amp; W.Guembel</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000309461">
+          <ScientificName>Brachythecium velutinum</ScientificName>
+          <CommonName>Velvet Feather-moss</CommonName>
+          <Authority>(Hedw.) Bruch, Schimp. &amp;amp; W.Guembel</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000309479">
+          <ScientificName>Bryum bicolor</ScientificName>
+          <CommonName>Bicoloured Bryum</CommonName>
+          <Authority>Dicks.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036632">
+          <ScientificName>Bryum ruderale</ScientificName>
+          <CommonName>Pea Bryum</CommonName>
+          <Authority>Crundw. &amp;amp; Nyholm</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000002108">
+          <ScientificName>Butomus umbellatus</ScientificName>
+          <CommonName>Flowering-rush</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005617">
+          <ScientificName>Calopteryx splendens</ScientificName>
+          <CommonName>Banded Demoiselle</CommonName>
+          <Authority>(Harris, 1782)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000004283">
+          <ScientificName>Campanula trachelium</ScientificName>
+          <CommonName>Nettle-leaved Bellflower</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000002873">
+          <ScientificName>Cardamine amara</ScientificName>
+          <CommonName>Large Bitter-cress</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000002457">
+          <ScientificName>Carex acuta</ScientificName>
+          <CommonName>Slender Tufted-sedge</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000003027">
+          <ScientificName>Cerastium semidecandrum</ScientificName>
+          <CommonName>Little Mouse-ear</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000006984">
+          <ScientificName>Cheilosia illustrata</ScientificName>
+          <CommonName/>
+          <Authority>(Harris, [1780])</Authority>
+          <TaxonReportingCategory>insect - true fly (Diptera)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersion=""
+        2000=""
+        Key="NBNSYS0000036875">
+          <ScientificName>Cirriphyllum piliferum</ScientificName>
+          <CommonName>Hair-pointed Feather-moss</CommonName>
+          <Authority>(Hedw.) Grout</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005606">
+          <ScientificName>Coenagrion puella</ScientificName>
+          <CommonName>Azure Damselfly</CommonName>
+          <Authority>(Linnaeus, 1758)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000545940">
+          <ScientificName>Dasypsyllus (Dasypsyllus) gallinulae subsp. gallinulae</ScientificName>
+          <CommonName>Moorhen Flea</CommonName>
+          <Authority>(Dale, 1878)</Authority>
+          <TaxonReportingCategory>insect - flea (Siphonaptera)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000002623">
+          <ScientificName>Deschampsia flexuosa</ScientificName>
+          <CommonName>Wavy Hair-grass</CommonName>
+          <Authority>(L.) Trin.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036204">
+          <ScientificName>Dichodontium pellucidum</ScientificName>
+          <CommonName>Transparent Fork-moss</CommonName>
+          <Authority>(Hedw.) Schimp.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036217">
+          <ScientificName>Dicranoweisia cirrata</ScientificName>
+          <CommonName>Common Pincushion</CommonName>
+          <Authority>(Hedw.) Lindb. ex Milde</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000309774">
+          <ScientificName>Didymodon fallax</ScientificName>
+          <CommonName>Fallacious Beard-moss</CommonName>
+          <Authority>(Hedw.) R.H.Zander</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000146092">
+          <ScientificName>Didymodon insulanus</ScientificName>
+          <CommonName>Cylindric Beard-moss</CommonName>
+          <Authority>(De Not.) M.O.Hill</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000146101">
+          <ScientificName>Didymodon tophaceus</ScientificName>
+          <CommonName>Olive Beard-moss</CommonName>
+          <Authority>(Brid.) Lisa</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000002594">
+          <ScientificName>Elymus caninus</ScientificName>
+          <CommonName>Bearded Couch</CommonName>
+          <Authority>(L.) L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005602">
+          <ScientificName>Enallagma cyathigerum</ScientificName>
+          <CommonName>Common Blue Damselfly</CommonName>
+          <Authority>(Charpentier, 1840)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005078">
+          <ScientificName>Erinaceus europaeus</ScientificName>
+          <CommonName>West European Hedgehog</CommonName>
+          <Authority>Linnaeus, 1758</Authority>
+          <TaxonReportingCategory>terrestrial mammal</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000007050">
+          <ScientificName>Eristalis intricarius</ScientificName>
+          <CommonName/>
+          <Authority>(Linnaeus, 1758)</Authority>
+          <TaxonReportingCategory>insect - true fly (Diptera)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005610">
+          <ScientificName>Erythromma najas</ScientificName>
+          <CommonName>Red-eyed Damselfly</CommonName>
+          <Authority>(Hansemann, 1823)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000309849">
+          <ScientificName>Eurhynchium hians</ScientificName>
+          <CommonName>Swartz's Feather-moss</CommonName>
+          <Authority>(Hedw.) Sande Lac.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000309857">
+          <ScientificName>Eurhynchium pumilum</ScientificName>
+          <CommonName>Dwarf Feather-moss</CommonName>
+          <Authority>(Wilson) Schimp.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036884">
+          <ScientificName>Eurhynchium striatum</ScientificName>
+          <CommonName>Common Striated Feather-moss</CommonName>
+          <Authority>(Hedw.) Schimp.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036273">
+          <ScientificName>Fissidens bryoides</ScientificName>
+          <CommonName>Lesser Pocket-moss</CommonName>
+          <Authority>Hedw.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036280">
+          <ScientificName>Fissidens exilis</ScientificName>
+          <CommonName>Slender Pocket-moss</CommonName>
+          <Authority>Hedw.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036284">
+          <ScientificName>Fissidens taxifolius</ScientificName>
+          <CommonName>Common Pocket-moss</CommonName>
+          <Authority>Hedw.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036267">
+          <ScientificName>Fissidens viridulus</ScientificName>
+          <CommonName>Green Pocket-moss</CommonName>
+          <Authority>(Sw.) Wahlenb.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000309888">
+          <ScientificName>Fontinalis antipyretica var. antipyretica</ScientificName>
+          <CommonName>Greater Water-moss</CommonName>
+          <Authority>Hedw.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000002784">
+          <ScientificName>Fumaria purpurea</ScientificName>
+          <CommonName>Purple Ramping-fumitory</CommonName>
+          <Authority>Pugsley</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000004306">
+          <ScientificName>Galium odoratum</ScientificName>
+          <CommonName>Woodruff</CommonName>
+          <Authority>(L.) Scop.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0020152181">
+          <ScientificName>Gastrophysa viridula</ScientificName>
+          <CommonName>Green Dock Beetle</CommonName>
+          <Authority>(De Geer, 1775)</Authority>
+          <TaxonReportingCategory>insect - beetle (Coleoptera)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005620">
+          <ScientificName>Gomphus vulgatissimus</ScientificName>
+          <CommonName>Common Club-tail</CommonName>
+          <Authority>(Linnaeus, 1758)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000310050">
+          <ScientificName>Homalia trichomanoides</ScientificName>
+          <CommonName>Blunt Feather-moss</CommonName>
+          <Authority>(Hedw.) Bruch, Schimp. &amp;amp; W.Guembel</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000011174">
+          <ScientificName>Hydrothassa marginella</ScientificName>
+          <CommonName/>
+          <Authority>(Linnaeus, 1758)</Authority>
+          <TaxonReportingCategory>insect - beetle (Coleoptera)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000344179">
+          <ScientificName>Ischnura elegans</ScientificName>
+          <CommonName>Blue-tailed Damselfly</CommonName>
+          <Authority>(Vander Linden, 1820)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000004239">
+          <ScientificName>Lamiastrum galeobdolon</ScientificName>
+          <CommonName>Yellow Archangel</CommonName>
+          <Authority>(L.) Ehrend. &amp;amp; Polatschek</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000004240">
+          <ScientificName>Lamium amplexicaule</ScientificName>
+          <CommonName>Henbit Dead-nettle</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000310158">
+          <ScientificName>Leptobryum pyriforme</ScientificName>
+          <CommonName>Golden Thread-moss</CommonName>
+          <Authority>(Hedw.) Wilson</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000150326">
+          <ScientificName>Leptodictyum riparium</ScientificName>
+          <CommonName>Kneiff's Feather-moss</CommonName>
+          <Authority>
+            (Hedw.) Warnst.</Authorit
+2000
+            y><TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036766">
+          <ScientificName>Leskea polycarpa</ScientificName>
+          <CommonName>Many-fruited Leskea</CommonName>
+          <Authority>Hedw.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005613">
+          <ScientificName>Lestes sponsa</ScientificName>
+          <CommonName>Emerald Damselfly</CommonName>
+          <Authority>(Hansemann, 1823)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005637">
+          <ScientificName>Libellula depressa</ScientificName>
+          <CommonName>Broad-bodied Chaser</CommonName>
+          <Authority>Linnaeus, 1758</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000309936">
+          <ScientificName>Lunularia cruciata</ScientificName>
+          <CommonName>Crescent-cup Liverwort</CommonName>
+          <Authority>(L.) Dumort. ex Lindb.</Authority>
+          <TaxonReportingCategory>liverwort</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000003936">
+          <ScientificName>Lysimachia vulgaris</ScientificName>
+          <CommonName>Yellow Loosestrife</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000309941">
+          <ScientificName>Marchantia polymorpha</ScientificName>
+          <CommonName>Common Liverwort</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>liverwort</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000003215">
+          <ScientificName>Ononis repens</ScientificName>
+          <CommonName>Common Restharrow</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005641">
+          <ScientificName>Orthetrum cancellatum</ScientificName>
+          <CommonName>Black-tailed Skimmer</CommonName>
+          <Authority>(Linnaeus, 1758)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000022272">
+          <ScientificName>Orthotrichum affine</ScientificName>
+          <CommonName>Wood Bristle-moss</CommonName>
+          <Authority>Brid.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036715">
+          <ScientificName>Orthotrichum diaphanum</ScientificName>
+          <CommonName>White-tipped Bristle-moss</CommonName>
+          <Authority>Brid.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000310261">
+          <ScientificName>Orthotrichum sprucei</ScientificName>
+          <CommonName>Spruce's Bristle-moss</CommonName>
+          <Authority>Mont.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000461214">
+          <ScientificName>Phragmites australis</ScientificName>
+          <CommonName>Common Reed</CommonName>
+          <Authority>(Cav.) Trin. ex Steud.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036518">
+          <ScientificName>Physcomitrium pyriforme</ScientificName>
+          <CommonName>Common Bladder-moss</CommonName>
+          <Authority>(Hedw.) Brid.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0020001356">
+          <ScientificName>Pipistrellus pipistrellus sensu lato</ScientificName>
+          <CommonName/>
+          <Authority>(Schreber, 1774)</Authority>
+          <TaxonReportingCategory>terrestrial mammal</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000068867">
+          <ScientificName>Piscicola geometra</ScientificName>
+          <CommonName/>
+          <Authority>(Linnaeus, 1761)</Authority>
+          <TaxonReportingCategory>annelid</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000310292">
+          <ScientificName>Plagiochila asplenioides</ScientificName>
+          <CommonName>Greater Featherwort</CommonName>
+          <Authority>(L.) Dumort.</Authority>
+          <TaxonReportingCategory>liverwort</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000310329">
+          <ScientificName>Plagiothecium nemorale</ScientificName>
+          <CommonName>Woodsy Silk-moss</CommonName>
+          <Authority>(Mitt.) A.Jaeger</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005598">
+          <ScientificName>Platycnemis pennipes</ScientificName>
+          <CommonName>White-legged Damselfly</CommonName>
+          <Authority>(Pallas, 1771)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000310374">
+          <ScientificName>Pohlia melanodon</ScientificName>
+          <CommonName>Pink-fruited Thread-moss</CommonName>
+          <Authority>(Brid.) A.J.Shaw</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036553">
+          <ScientificName>Pohlia nutans</ScientificName>
+          <CommonName>Nodding Thread-moss</CommonName>
+          <Authority>(Hedw.) Lindb.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036132">
+          <ScientificName>Polytrichum formosum</ScientificName>
+          <CommonName>Bank Haircap</CommonName>
+          <Authority>Hedw.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036138">
+          <ScientificName>Polytrichum juniperinum</ScientificName>
+          <CommonName>Juniper Haircap</CommonName>
+          <Authority>Hedw.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000036137">
+          <ScientificName>Polytrichum piliferum</ScientificName>
+          <CommonName>Bristly Haircap</CommonName>
+          <Authority>Hedw.</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000002134">
+          <ScientificName>Potamogeton perfoliatus</ScientificName>
+          <CommonName>Perfoliate Pondweed</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000310497">
+          <ScientificName>Pseudephemerum nitidum</ScientificName>
+          <CommonName>Delicate Earth-moss</CommonName>
+          <Authority>(Hedw.) Loeske</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000310501">
+          <ScientificName>Pseudocrossidium hornschuchianum</ScientificName>
+          <CommonName>Hornschuch's Beard-moss</CommonName>
+          <Authority>(Schultz) R.H.Zander</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005599">
+          <ScientificName>Pyrrhosoma nymphula</ScientificName>
+          <CommonName>Large Red Damselfly</CommonName>
+          <Authority>(Sulzer, 1776)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000310549">
+          <ScientificName>Radula complanata</ScientificName>
+          <CommonName>Even Scalewort</CommonName>
+          <Authority>(L.) Dumort.</Authority>
+          <TaxonReportingCategory>liverwort</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005060">
+          <ScientificName>Rana temporaria</ScientificName>
+          <CommonName>Common Frog</CommonName>
+          <Authority>Linnaeus, 1758</Authority>
+          <TaxonReportingCategory>amphibian</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000002725">
+          <ScientificName>Ranunculus fluitans</ScientificName>
+          <CommonName>River Water-crowfoot</CommonName>
+          <Authority>Lam.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000080212">
+          <ScientificName>Rattus norvegicus</ScientificName>
+          <CommonName>Brown Rat</CommonName>
+          <Authority>(Berkenhout, 1769)</Authority>
+          <TaxonReportingCategory>terrestrial mammal</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000310436">
+          <ScientificName>Rhynchostegium murale</ScientificName>
+          <CommonName>Wall Feather-moss</CommonName>
+          <Authority>(Hedw.) Bruch, Schimp. &amp;amp; W.Guembel</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000310437">
+          <ScientificName>Rhynchostegium riparioides</ScientificName>
+          <CommonName>Long-beaked Water Feather-moss</CommonName>
+          <Authority>(Hedw.) Cardot</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxon=""
+        2000=""
+        VersionKey="NHMSYS0000309281">
+          <ScientificName>Schistidium apocarpum sensu lato</ScientificName>
+          <CommonName/>
+          <Authority/>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000004234">
+          <ScientificName>Stachys palustris</ScientificName>
+          <CommonName>Marsh Woundwort</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005650">
+          <ScientificName>Sympetrum sanguineum</ScientificName>
+          <CommonName>Ruddy Darter</CommonName>
+          <Authority>(Muller, 1764)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000005645">
+          <ScientificName>Sympetrum striolatum</ScientificName>
+          <CommonName>Common Darter</CommonName>
+          <Authority>(Charpentier, 1840)</Authority>
+          <TaxonReportingCategory>insect - dragonfly (Odonata)</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000310723">
+          <ScientificName>Syntrichia ruralis</ScientificName>
+          <CommonName>Great Hairy Screw-moss</CommonName>
+          <Authority>(Hedw.) F.Weber &amp;amp; D.Mohr</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0100005848">
+          <ScientificName>Tortula acaulon</ScientificName>
+          <CommonName>Cuspidate Earth-moss</CommonName>
+          <Authority>(With.) R.H.Zander</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0100005854">
+          <ScientificName>Tortula modica</ScientificName>
+          <CommonName>Blunt-fruited Pottia</CommonName>
+          <Authority>R.H.Zander</Authority>
+          <TaxonReportingCategory>moss</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000464564">
+          <ScientificName>Trifolium campestre</ScientificName>
+          <CommonName>Hop Trefoil</CommonName>
+          <Authority>Schreb.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NHMSYS0000464618">
+          <ScientificName>Trisetum flavescens</ScientificName>
+          <CommonName>Yellow Oat-grass</CommonName>
+          <Authority>(L.) P. Beauv.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+        <Species taxonVersionKey="NBNSYS0000004103">
+          <ScientificName>Veronica montana</ScientificName>
+          <CommonName>Wood Speedwell</CommonName>
+          <Authority>L.</Authority>
+          <TaxonReportingCategory>flowering plant</TaxonReportingCategory>
+        </Species>
+      </SpeciesList>
+      <DatasetSummaryList>
+        <DatasetSummary id="GA000074">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Mammal records from Britain from the Atlas of Mammals (1993), with some subsequent records]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Biological Records Centre]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ This dataset consists largely of BRC mammal data used to create the 1993 &#39;Atlas of mammals in Britain&#39;. The data were collected by volunteers from the former Mammal Recording Scheme. Recording cards from the dataset were input to electronic format in BRC. ]]></Description>
+              <DataCaptureMethod><![CDATA[ ]]></DataCaptureMethod>
+              <Purpose><![CDATA[ ]]></Purpose>
+              <GeographicalCoverage><![CDATA[ Great Britain. Record density is strong over England, Scotland and Wales. There are no records for Ireland.]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ A very large number of records were collected between 1945 and 1993, but some records were received to 2002.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ Records have been subject to routine validation by BRC.]]></DataQuality>
+              <AdditionalInformation><![CDATA[ Arnold, H.R. 1993. Atlas of mammals in Britain. London: HMSO.    ]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ There are access constraints to protect vulnerable species. Detailed data may be made available to the country agencies and other conservation organisations to assist their conservation work.]]></AccessConstraints>
+            <UseConstraints><![CDATA[ Further information required]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="BRCODON0">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Dragonfly and Damselfly (Odonata) records for Britain to 1992, from the former Dragonfly Recording Scheme]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Biological Records Centre]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ This dataset consists of the records collected and collated for the Odonata Recording Scheme (now the Dragonfly Recording Network), which led to the publication of the Atlas of the Dragonflies of Britain and Ireland (1996) by Merritt, Moore and Eversham.  The scheme was run in association with the Biological Records Centre, where the dataset is now held.  It contains not only the records made and submitted by the volunteer community, but also some from historical literature and museum sources.  The records span the period 1807 (one from literature) to 1992, with 82&#37; from 1975 to 1988.]]></Description>
+              <DataCaptureMethod><![CDATA[ ]]></DataCaptureMethod>
+              <Purpose><![CDATA[ ]]></Purpose>
+              <GeographicalCoverage><![CDATA[ Great Britain, but not Ireland.]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ The majority of records span 1888&#45;1992 although there are a few records before these dates.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ All records have been checked and verified by the national scheme organiser and validated as part of BRC&#39;s routine data acquisition process.]]></DataQuality>
+              <AdditionalInformation><![CDATA[ Merritt. R., Moore, N.W. &amp; Eversham, B.C. 1996. Atlas of The Dragonflies of Britain and Ireland. London: HMSO &lt;br&gt;  &lt;a href??http:&#47;&#47;www.brc.ac.uk&#47;publications.htm?target??&#95;blank?&gt;http:&#47;&#47;www.brc.ac.uk&#47;publications.htm&lt;&#47;a&gt;&lt;br&gt;  &lt;a href??http:&#47;&#47;www.dragonflysoc.org.uk&#47;?target??&#95;blank?&gt;http:&#47;&#47;www.dragonflysoc.org.uk&#47;&lt;&#47;a&gt;]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ There are no access constraints]]></AccessConstraints>
+            <UseConstraints><![CDATA[ ]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="SGB00001">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Hoverfly Recording Scheme database for Great Britain]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Hoverfly Recording Scheme]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ Set of data relating to hoverflies (Diptera, Syrphidae) recorded in Great Britain, compiled from a variety of sources by the Hoverfly Recording Scheme.&lt;br&gt;&lt;br&gt;The dataset summarises the information collated by the Recording Scheme from its inception in 1976 to about 1997. The great majority of the information consists of field observations made by voluntary recorders submitted either on BRC recording cards, or electronically from other datasets. Whilst a considerable amount of information from collections and the literature is incorporated, this element is by no means complete because no systematic trawl has been undertaken as yet. In general, historic data from such sources will be most complete for the rarer species (especially those with Biodiversity Action Plans) since these have been researched more extensively. Data covers Great Britain, although not all data held by the Scottish Hoverfly Recording Scheme have been incorporated.&lt;br&gt;&lt;br&gt;The data have been validated by the current national organisers of the Scheme, Stuart Ball and Roger Morris. The ?Provisional Atlas of the Hoverflies of Great Britain? (Ball &amp; Morris, 2000. CEH, Huntingdon) was derived from these data.]]></Description>
+              <DataCaptureMethod><![CDATA[ ]]></DataCaptureMethod>
+              <Purpose><![CDATA[ ]]></Purpose>
+              <GeographicalCoverage><![CDATA[ ]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ ]]></TemporalCoverage>
+              <DataQuality><![CDATA[ ]]></DataQuality>
+              <AdditionalInformation><![CDATA[ ]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ A small amount of data is regarded as sensitive]]></AccessConstraints>
+            <UseConstraints>
+              <![CDATA[ Data is 
+2000
+freely available for non&#45;commercial use for the purposes of conservation, research and facilitating interest in and study of natural history.]]>
+            </UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="GA000476">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Flea (Siphonaptera) Distributions in Britain and Ireland: pre 1975, 1975 onwards]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Flea (Siphonaptera) Recording Scheme]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ Data from the Flea (Siphonaptera) Recording Scheme have been compiled in the national database at the Biological Records Centre.  This data covers the distribution of all species resident in Britain and Ireland.  There are 60 species and subspecies represented (which constitutes the fauna of Britain and Ireland).  ]]></Description>
+              <DataCaptureMethod><![CDATA[ The data represents a compilation of over 25 000 records from field work by R.S. George and a few other recorders over many decades and a synthesis of species records from other sources.  The oldest records are derived mainly from museum collections and the published literature.  The identity of the majority of specimens has been verified by the scheme organiser (R.S. George).  For detailed information on sampling and collecting techniques refer to the Atlas of the Fleas (Siphonaptera) of Britain and Ireland (2008).]]></DataCaptureMethod>
+              <Purpose><![CDATA[ The data have been collated for the BRC based Flea (Siphonaptera) Recording Scheme and have been published in the Atlas of the Fleas (Siphonaptera) of Britain and Ireland (2008).]]></Purpose>
+              <GeographicalCoverage><![CDATA[ The records provide reasonable coverage of most of Britain and Ireland although some areas are under recorded and others have been subject to intensive surveys such as Shropshire (for more details refer to Atlas of the Fleas (Siphonaptera) of Britain and Ireland, 2008).  The resolution of records varies but many are within 100m resolution.]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ The majority of records have a full date (DD&#47;MM&#47;YYYY) although some from the literature sources are less specific.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ Data have been updated and maintained since 1964 by R.S. George and the last atlas was published in 1974.  In 1974 the majority of records were from literature sources and from specimens or lists sent to R.S. George by correspondents.  The records from 1975 onwards represent many specimens received by R.S. George, however, the data should not be regarded as having comprehensive geographic or taxonomic coverage. There have been on&#45;going changes and updates to the check list. The nomenclature and systematics follow those used by Whitaker (2007).  It is customary with fleas, unlike many orders, to use subspecies names.  Data should be checked against original sources before use in contentious circumstances. &lt;b&gt;The data is considered to be high quality because of the rigorous verification process by R.S. George. &lt;&#47;b&gt;]]></DataQuality>
+              <AdditionalInformation><![CDATA[ Additional information can be found:&lt;br &#47;&gt;&lt;br &#47;&gt; &lt;a href?&#39;http:&#47;&#47;www.brc.ac.uk&#47;&#39;&gt;http:&#47;&#47;www.brc.ac.uk&#47;&#39;&lt;&#47;a&gt;&lt;br &#47;&gt;&lt;br &#47;&gt; George, R.S. (2008) Atlas of the Fleas (Siphonaptera) of Britain and Ireland.]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ Data is available at full resolution but with a restriction on viewing recorder names to protect recorder confidentiality.]]></AccessConstraints>
+            <UseConstraints><![CDATA[  ]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="GA000484">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Bruchid and Chrysomelid Distributions in Britain and Ireland: pre 1900, 1900&#45;1979, 1980 onwards]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Seed and Leaf Beetle Recording Scheme]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ Data from the Seed and Leaf Beetle Recording Scheme have been compiled in the national database at the Biological Records Centre.  This data covers the distribution of all species resident in Britain and Ireland.  There are 263 chrysomelid species and 15 bruchid species represented (which constitutes the fauna of Britain and Ireland). ]]></Description>
+              <DataCaptureMethod><![CDATA[ The data represents a compilation of records from field work by coleopterists over many decades and a synthesis of species records from other sources.  The oldest records are derived mainly from museum collections and the published literature.  The identity of the majority of specimens belonging to difficult genera has been verified by the scheme organiser (Michael Cox).  For detailed information on sampling and collecting techniques refer to the Atlas of the Seed and Leaf Beetles of Britain and Ireland (2007).]]></DataCaptureMethod>
+              <Purpose><![CDATA[ The data have been collated for the BRC based Seed and Leaf Beetle Recording Scheme and have been published in the Atlas of the Seed and Leaf Beetles of Britain and Ireland (2007).]]></Purpose>
+              <GeographicalCoverage><![CDATA[ The records provide reasonable coverage of most of Britain, although parts of east Anglia, south&#45;western and north&#45;western England, Scotland and Ireland are under recorded.  The resolution of records varies but many are within 100m resolution.]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ The majority of records have a full date (DD&#47;MM&#47;YYYY).]]></TemporalCoverage>
+              <DataQuality><![CDATA[ Data have only been updated and maintained since 1980 and should not be regarded as having comprehensive geographic or taxonomic coverage. There have been on&#45;going changes and updates to the check list. Species complexes and splits have been considered for the following:  Oulema melanopus is now regarded as two species (O. melanopus and O. rufocyanea); Chaetocnema concinna could contain a few records of C. picipes which has only recently been recognised as a distinct species in Britain; Galerucella nymphaeae and G. sagittariae require microscopic examination of male genitalia and so are often confused; Altica ericeti probably does not occur in Britain or Ireland and all records are therefore A. longicollis. Data should therefore be checked against original sources before use in contentious circumstances.]]></DataQuality>
+              <AdditionalInformation><![CDATA[ Additional information can be found:&lt;br&#47;&gt;&lt;&#47;br&gt; &lt;a ref?&#39;http:&#47;&#47;www.brc.ac.uk&#47;&#39;&gt;http:&#47;&#47;www.brc.ac.uk&#47;&lt;&#47;a&gt;&lt;br&#47;&gt;&lt;&#47;br&gt; Cox, M.L. (2007) Atlas of the Seed and Leaf Beetles of Britain and Ireland. Pisces Publications, Berkshire&lt;br&#47;&gt;&lt;&#47;br&gt; &lt;a href?&#39;http:&#47;&#47;www.naturebureau.co.uk&#39;&gt;http:&#47;&#47;www.naturebureau.co.uk&lt;&#47;a&gt; ]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ Data is available at full resolution but with a restriction on viewing recorder names to protect recorder confidentiality.]]></AccessConstraints>
+            <UseConstraints><![CDATA[ The Gateway Terms and Conditions are applied to all datasets on the Gateway as a default. Where you feel that these alone do not meet your needs you may identify Additional Terms of Access for use of your dataset here.]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="GA000012">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Dragonfly records from the British Dragonfly Society&#39;s Dragonfly Recording Network for the period up to 2007]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Dragonfly Recording Network]]></DatasetProvider>
+            <Abstract>
+              <Description>
+                <![CDATA[ Dragonfly and damselfly records collected and collated by the Dragonfly Recording Network (DRN), a part of the British Dragonfly Society, for the period 1807&#45;2007.This dataset incorporates the previous DRN and BRC dragonfly datasets on the Gateway.  This dataset contains an incomplete set of 2007 da
+2000
+ta as there are records still to be included.]]>
+              </Description>
+              <DataCaptureMethod><![CDATA[ The records include observations on all species, dragonflies and damselflies records, made by volunteers and submitted to the Dragonfly Recording Network. Also included are those collated by the record centres, Bristol Regional Environmental Records Centre, Kent and Medway Bioloigical Records Centre, Herefordshire Biological Records Centre and also Glasgow Museum. The datasets from the first two record centres represent duplicate datasets on the NBN Gateway. The records include breeding and abundance information, formatted to those used within the Dragonfly Recording Network.]]></DataCaptureMethod>
+              <Purpose><![CDATA[ Observations made prior to 1990 were included in the national ?Atlas of the dragonflies of Britain And Ireland?, published in 1996.]]></Purpose>
+              <GeographicalCoverage><![CDATA[ Coverage includes all regions of Britain submitted to the national coordinator of the DRN by March 2008 (records from the Channel Islands are not currently included in this dataset). Records are provided at the precision they were recorded (majority 1km or 100m grid references, dataset also includes 10km and 2km gridreferences).]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ The coverage of Britain is not complete for records made after the end of recording for the national atlas in 1990. There are currently no Irish records after 1990 in this dataset. Records may be recorded with a full date (DD&#47;MM&#47;YYYY) or by year.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ Records that lie well outside currently known distributions and would indicate significant changes of range have been validated to ensure their validity. All records entering the Dragonfly Recording Network database are validated against records currently held within the database.]]></DataQuality>
+              <AdditionalInformation><![CDATA[ Further information regarding the Dragonfly Recording Network can be obtained from the British Dragonfly Society website at ?http:&#47;&#47;www.dragonflysoc.org.uk&#47;?.]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ The dataset is available to everyone to view at 1km resolution. Access to view and download the full detail may be approved on a case&#45;by&#45;case basis. This is to protect the interests of our data providers and our continued operation as a not&#45;for&#45;profit data gathering organisation.]]></AccessConstraints>
+            <UseConstraints><![CDATA[ Gateway Terms and Conditions]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="GA000378">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Environment Agency freshwater invertebrate species (single species families)]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Environment Agency]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ The data come from the freshwater invertebrate component of the Environment Agency&#39;s national ecology database (BIOSYS) and relate to the aquatic stages of the invertebrates. Most data have been collected from main rivers as part of an extensive routine monitoring network. The data are restricted to a selection of families which contain one species only.]]></Description>
+              <DataCaptureMethod><![CDATA[ This data was collected by ecologists working for the Environment Agency and its predecessor organisations.  Most of the data originate from kick samples taken in main rivers and have been collected and analysed using standard sampling methodologies.  The data was extracted from the Environment Agency&#39;s national ecology database (BIOSYS) and does not include older records held in paper copy only.  Records for families, genera and species from chosen single species families have been extracted and are reported at the species level.  ]]></DataCaptureMethod>
+              <Purpose><![CDATA[ The majority of the data was collected for sample level assessments of water quality.  This subset of the data has been extracted as part of a longer&#45;term programme to provide species level information to the NBN.  ]]></Purpose>
+              <GeographicalCoverage><![CDATA[ The records cover the Environment Agency regions across England and Wales. Sites are recorded at a minimum precision of 100m.  The distribution of records is biased towards main rivers and areas with historical water quality issues.  This is especially true of older records. The sampling methodologies and taxa identified are the same at all sites. ]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ The records range from the 1970&#39;s to present. The majority are from 1990 onwards. All records have full dates. The records post&#45;1990 have a higher confidence as formal quality control procedures began in 1990.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ Routine and ad&#45;hoc freshwater invertebrate samples taken by the Environment Agency are always sorted to family level.  Since 1990, quality control procedures for family level identification have been in place which allows a high confidence to be placed on taxa which are from families containing a single species.  Records earlier than 1990 were not subject to standardised quality control at the time of collection, but are included within this data set. &lt;br&gt;&lt;br&gt;  Validation on this data set is restricted to the correction of obvious spatial errors.  The identification of these species has been subject to formal quality control since 1990 and should therefore be of a high standard.  Due to the nature of the species in this data set (single species families), it is likely that most records, including those earlier than 1990 are of a good quality.  ]]></DataQuality>
+              <AdditionalInformation><![CDATA[ Further information available from http:&#47;&#47;www.environment&#45;agency.gov.uk&#47;]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ none]]></AccessConstraints>
+            <UseConstraints><![CDATA[ ]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="GA000191">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Coccinellidae Data]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Biological Records Centre]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ This dataset was updated with over 6000 new records in August 2006 and contains two data sources of Ladybird records:&lt;br&gt;&lt;br&gt;    1) Data held by BRC and originating from the voluntary Coccinellidae Recording Scheme run by John Muggleton. A draft atlas that included this data was produced in 1990 but never published. &lt;br&gt;  2) New data from the Cambridge Ladybird Survey that were input from recording cards at BRC in 2006.  ]]></Description>
+              <DataCaptureMethod><![CDATA[ Field recording with voucher specimen collection.]]></DataCaptureMethod>
+              <Purpose><![CDATA[ To provide distribution data about ladybird species found in Britain and Ireland.]]></Purpose>
+              <GeographicalCoverage><![CDATA[ The dataset gives good coverage of England and Wales, reasonable coverage of parts of Scotland and patchy coverage of Ireland. Most original grid references were recorded to 1km or 100m resolution although many were only recorded at 10km resolution.]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ Records in this dataset span from 1916 to 2003. The majority of the records are post&#45;1970 but there are records in the dataset extending back to the 19th century.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ Field records were fully verified either by the scheme organiser or by known expert coleopterists. Records were subject to routine validation by BRC during input.]]></DataQuality>
+              <AdditionalInformation><![CDATA[ Scheme maps for selected species (&lt;i&gt;Hippodamia 13&#45;punctata &lt;&#47;i&gt;, &lt;i&gt;Coccinella 7&#45;punctata&lt;&#47;i&gt; and &lt;i&gt;Halyzia 16&#45;guttata&lt;&#47;i&gt;) included in this dataset were published as part of the New Naturalist series in Majerus, M. (1994) &#39;Ladybirds&#39;. Harper Collins, London.&lt;br&gt;&lt;br&gt;  See also the NBN Gateway dataset: &#39;Ladybird Survey of the UK&#39;.]]></AdditionalInformation>
+              </Abstra
+2000
+              ct>
+              <AccessConstraints><![CDATA[ There are no access constraints]]></AccessConstraints>
+              <UseConstraints><![CDATA[ ]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="GA000392">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Aquatic Heteroptera Dataset]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Aquatic Heteroptera Recording Scheme]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ Records of British Water Bugs sent into the Recording Scheme, mostly by volunteers and mainly between 2001 and 2007.]]></Description>
+              <DataCaptureMethod><![CDATA[ Data has been gathered from a variety of sources.  This has been in the main by volunteers and has involved field recording; voucher specimens have been taken for difficult species.]]></DataCaptureMethod>
+              <Purpose><![CDATA[ To provide distribution data about Aquatic Heteroptera in Britain and to follow on from the dataset compiled by Thomas Huxley for the &#39;Provisional Atlas of the British aquatic bugs&#39;  (details in Additional Information).]]></Purpose>
+              <GeographicalCoverage><![CDATA[ All regions of Great Britain, including significant coverage in some areas.  Most records have a 6&#45;figure grid reference but a few refer to a 10km square.]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ Most of the records range from 2001 &#45; 2007 and follow the  Provisional atlas data. There are, however, some historic records from Hertfordshire and Cambridgeshire, and some old records from cards that were passed on to the organiser.&lt;br&gt;  The majority of records have a complete date but a few have only month &amp; year.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ These Aquatic Heteroptera Scheme records were provided both on record cards and electronically.  These have been validated by the Scheme Organiser and discussed, when necessary, with Organiser of the Terrestrial Scheme, Bernard Nau.]]></DataQuality>
+              <AdditionalInformation><![CDATA[ Recording Scheme data up till 2001 was published in Huxley, T. 2003. Provisional atlas of the British aquatic bugs (Hemiptera, Heteroptera). Huntingdon: Biological records centre.&lt;br&gt;&lt;br&gt;  Huxley, T. 2004. THE WATER BUGS OF FIFE &amp; KINROSS (VICE&#45;COUNTY 85). Fife Environmental Recording Network &amp; Fife Council.&lt;br&gt;&lt;br&gt;  Atlas of the water beetles (Coleoptera) and water bugs (Hemiptera) of Derbyshire, Nottinghamshire and South Yorkshire, 1993&#45;2005 by Robert Merritt. Sorby Natural History Society, Sheffield.&lt;br&gt;&lt;br&gt;  Sheila Brooke and Bernard Nau produce a biannual newsletter, Het News, containing information relevant to both aquatic and terrestrial schemes and can be downloaded from www.hetnews.org.uk.&lt;br&gt;&lt;br&gt;  There is a Hets Yahoo newsgroup at www.groups.yahoo.com&#47;group&#47;hets]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ There are no access constraints]]></AccessConstraints>
+            <UseConstraints><![CDATA[ ]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="GA000510">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Shropshire Axiophytes 1980&#45;2006]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Shropshire Environmental Data Network]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ Records of vascular plants that are considered to be indicators of BAP habitats (axiophytes) for use in conservation planning and monitoring.]]></Description>
+              <DataCaptureMethod><![CDATA[ Records are compiled from numerous sources, including site surveys, Atlases and vegetation sampling.]]></DataCaptureMethod>
+              <Purpose><![CDATA[ Records collected for numerous purposes, including taxonomic research, conservation planning, monitoring and vegetation analysis.]]></Purpose>
+              <GeographicalCoverage><![CDATA[ Data is restricted to v.c. 40 (Shropshire) and should all have a resolution of 2km (tetrad). Analyses at finer resolution may be less complete. Coverage of the county is reasonably complete as it includes a complete County Flora.]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ Dates reflect the type of survey from which the data is drawn. A convention used is that Flora records (Sinker et al. 1985) are given the year 1984, when most of these records actually date from the late 1970s&#47;early 1980s. Otherwise most records are accurately dated to the correct year.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ Data quality should be as good as can be expected in any data set of this size.]]></DataQuality>
+              <AdditionalInformation><![CDATA[ ]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ For more information, visit &lt;a href??http:&#47;&#47;shropshire.bsbi.org.uk?&gt;http:&#47;&#47;shropshire.bsbi.org.uk&lt;&#47;a&gt;]]></AccessConstraints>
+            <UseConstraints><![CDATA[ None]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="GA000144">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Bryophyte data for Great Britain from the British Bryological Society held by BRC]]></DatasetTitle>
+            <DatasetProvider><![CDATA[British Bryological Society]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ Bryophyte records submitted to the Biological Records Centre for England, Ireland, Scotland and Wales. The dataset comprises records collected for the Bryophyte Recording Scheme, as well as those extracted from literature and museum sources. This dataset was updated with two new surveys in February 2006 which contain around 50000 records for Carmarthenshire and Pembrokeshire. Details of all 90 surveys in this dataset can be obtained by clicking the Survey tab. An update of 130,000 records was made to the dataset in September 2006. This includes ten new surveys covering various taxa and localities including Coll &amp; Tiree, Suffolk, Isle of Wight, Northamptonshire and Pembrokeshire. The record span of these new surveys is from 1800&#45;2006. An update of over 200,000 records was made to the dataset in April 2007, including ten new surveys spanning 1744&#45;2007.]]></Description>
+              <DataCaptureMethod><![CDATA[ Mainly from record cards, which were typed up at the Biological Records Centre.  More recent data (since 2000) have mostly been sent electronically.]]></DataCaptureMethod>
+              <Purpose><![CDATA[ For atlas production and inclusion in BRC database.]]></Purpose>
+              <GeographicalCoverage><![CDATA[ Great Britain, Ireland, Isle of Man, Channel Islands]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ The records span the period 1663 (extracted from literature) to 2006. A new atlas and complete update of data are planned for about 2010.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ The data were validated against known vice&#45;county distributions of the species, and (for critical species) by expert examination of specimens.]]></DataQuality>
+              <AdditionalInformation><![CDATA[ Hill MO, Preston CD, Smith AJE. 1991&#45;1994. Atlas of the bryophytes of Britain and Ireland, Vol. 1 (1991), Vol. 2 (1992), Vol. 3 (1994). Colchester: Harley Books.]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ Eleven species Adelanthus lindenbergianus, Athalamia hyalina,Bruchia vogesiaca, Bryum schleicheri, Cyclodictyon laetevirens, Ditrichum cornubicum, Jamesoniella undulifolia, Leiocolea rutheana, Paludella squarrosa, Thamnobryum angustifolium, Weissia multicapsularis are thought to be vulnerable to collecting.  These are marked as confidential, so that the records are not visible to the public.  This sensitive information may be made available to specific organisations and individuals that need to know to avoid harm to the environment.]]></AccessConstraints>
+            <UseConstraints><![CDATA[ When these data are used in publications and lectures, the British Bryological Society and the Biological Records Centre should be acknowledged.]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="GA000174">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Database for the Atlas of Freshwater Fishes]]></DatasetTitle>
+            <DatasetProvider>
+              <![CDATA[Biol
+1f8e
+ogical Records Centre]]>
+            </DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ A collated information source on the distribution of all freshwater and estuarine fish species for Britain. The data are derived from a variety of sources and as such were collected by both professionals and volunteers. ]]></Description>
+              <DataCaptureMethod><![CDATA[ ]]></DataCaptureMethod>
+              <Purpose><![CDATA[ To provide an up&#45;to&#45;date collated information source on the distribution of freshwater fish species in the UK.]]></Purpose>
+              <GeographicalCoverage><![CDATA[ There are records from throughout the UK and some parts of Ireland, although recording density is strongest in England and Wales.]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ The majority of the records range from 1950&#45;2003 although some records are included from before these dates.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ Records have been subject to routine validation by BRC.]]></DataQuality>
+              <AdditionalInformation><![CDATA[ This dataset relates to the publication: Davies, C. E., Shelley, J., Harding, P. T., McLean, I. F. G., Gardiner, R. &amp; Peirson, G., eds. 2004. Freshwater fishes in Britain &#45; the species and their distribution. Harley Books, Colchester.]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ There are no access constraints]]></AccessConstraints>
+            <UseConstraints><![CDATA[ ]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="GA000156">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Water Bug (aquatic Heteroptera) data for Britain  ]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Biological Records Centre]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ The records in this dataset come from two sources (loaded to the NBN Gateway as two separate surveys):&lt;BR&gt;&lt;BR&gt;    1) Aquatic Heteroptera Recording Scheme data collected mainly by volunteers and extracted from Thomas Huxley&#39;s database. (He was the previous Scheme Organiser). &lt;br&gt;&lt;br&gt;  2) Professionally&#45;collected records from Lincolnshire provided by Richard Chadd of the Environment Agency.    &lt;BR&gt;&lt;BR&gt;  For more details use the &lt;i&gt;Surveys&lt;&#47;i&gt; link on your left  ]]></Description>
+              <DataCaptureMethod><![CDATA[ See &lt;i&gt;Surveys&lt;&#47;i&gt; link]]></DataCaptureMethod>
+              <Purpose><![CDATA[ To provide distribution data about the species of Aquatic Heteroptera known to breed in Britain.]]></Purpose>
+              <GeographicalCoverage><![CDATA[ Great Britain. There is reasonable coverage of England, Scotland and Wales, including good coverage of the East of England. There are no records in Ireland.]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ The majority of recording occurred between 1974 and 2003 although there are many records before these dates.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ Most Aquatic Heteroptera Recording Scheme records were provided electronically and were subject to validation and consultation with the Scheme Organiser at the time, Thomas Huxley.  The current Scheme Organiser is Sheila Brooke, who liaises with Bernard Nau, Organiser of the Terrestrial Scheme.&lt;br&gt;&lt;br&gt;    All of Richard Chadd&#39;s records were provided electronically and subject to analytical quality assurance processes and consultation with established experts (Sheila Brooke and Bernard Nau of the Aquatic Heteroptera Recording Scheme).]]></DataQuality>
+              <AdditionalInformation><![CDATA[ Recording Scheme data was published in Huxley, T. 2003. Provisional atlas of the British aquatic bugs (Hemiptera, Heteroptera). Huntingdon: Biological Records Centre. More details available &lt;a href??http:&#47;&#47;science.ceh.ac.uk&#47;products&#95;services&#47;publications&#47;monkswood&#47;aquaticbugs.htm? target??&#95;blank?&gt;here&lt;&#47;a&gt;&lt;br&gt;&lt;br&gt;  Sheila Brooke and Bernard Nau (Terrestrial Scheme organiser) recently started producing a biannual newsletter called &lt;i&gt;Het News&lt;&#47;i&gt; which contains information relevant to both the aquatic and terrestrial schemes.&lt;br&gt;&lt;br&gt;  Richard Chadd is president of the &lt;a href??http:&#47;&#47;www.lnu.org? target??&#95;blank?&gt;Lincolnshire Naturalists&#39; Union&lt;&#47;a&gt;    ]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ There are no access constraints]]></AccessConstraints>
+            <UseConstraints><![CDATA[ ]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="GA000145">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Reptiles and Amphibians Dataset]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Biological Records Centre]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ Reptile and Amphibian records extracted from the BRC herptiles database. The dataset includes records from RHR Taylor, Frank Perrin and various other volunteer recorders. There is no official recording scheme for herptiles although some recording is ongoing within BRC. These data were input to electronic format in BRC from recording cards.]]></Description>
+              <DataCaptureMethod><![CDATA[ ]]></DataCaptureMethod>
+              <Purpose><![CDATA[ ]]></Purpose>
+              <GeographicalCoverage><![CDATA[ The UK and Ireland. Good coverage of England, Scotland and Wales and reasonable coverage of Ireland.]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ There is a peak of recording from 1958&#45;1996 although the last records were collected in 2001 and there are many earlier records in the dataset.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ Records have been subject to routine validation by BRC.]]></DataQuality>
+              <AdditionalInformation><![CDATA[ Data published in: Arnold, H.R. 1995. Atlas of amphibians and reptiles in Britain. London: HMSO. Details   &lt;a href??http:&#47;&#47;www.ceh.ac.uk&#47;products&#95;services&#47;publications&#47;other&#47;tso&#47;amphib.html  ? target??&#95;blank?&gt; here  &lt;&#47;a&gt;  &lt;br&gt;  &lt;a href??http:&#47;&#47;www.brc.ac.uk&#47;scheme&#95;details.asp?schemeChoice?75  ? target??&#95;blank?&gt; More information  &lt;&#47;a&gt;  ]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ There are access constraints to protect vulnerable species. Detailed data may be made available to the country agencies and other conservation organisations to assist their conservation work.]]></AccessConstraints>
+            <UseConstraints><![CDATA[ ]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+        <DatasetSummary id="GA000537">
+          <ProviderMetadata datestamp="" exchangeFormatVersion="1.0">
+            <DatasetTitle><![CDATA[Shropshire Dragonflies]]></DatasetTitle>
+            <DatasetProvider><![CDATA[Shropshire Environmental Data Network]]></DatasetProvider>
+            <Abstract>
+              <Description><![CDATA[ A compilation of records of Odonata in Shropshire (v.c. 40)]]></Description>
+              <DataCaptureMethod><![CDATA[ Records are compiled from numerous sources, including site surveys, Atlases and incidental observations.]]></DataCaptureMethod>
+              <Purpose><![CDATA[ Most of the data was collected for site surveillance and distribution mapping.]]></Purpose>
+              <GeographicalCoverage><![CDATA[ Data is restricted to v.c. 40 (Shropshire) and all records should have a resolution of 2km (tetrad). Analyses at finer resolution may be less complete.]]></GeographicalCoverage>
+              <TemporalCoverage><![CDATA[ Dates reflect the surveys from which the data is drawn, with a concentration of effort in the 1990s.]]></TemporalCoverage>
+              <DataQuality><![CDATA[ The records have been checked by county recorders are considered to be reasonably reliable.]]></DataQuality>
+              <AdditionalInformation><![CDATA[ The data is available in full on the Gateway, but the Shropshire Environmental Data Network will continue to collect additional records.]]></AdditionalInformation>
+            </Abstract>
+            <AccessConstraints><![CDATA[ None.]]></AccessConstraints>
+            <UseConstraints><![CDATA[ ]]></UseConstraints>
+          </ProviderMetadata>
+        </DatasetSummary>
+      </DatasetSummaryList>
+    </SpeciesListResponse>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+0
+

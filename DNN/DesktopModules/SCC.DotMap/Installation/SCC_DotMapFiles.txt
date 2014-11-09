@@ -1,0 +1,16 @@
+SCC_DotMap.dnn
+../*.txt
+../*.ascx
+../*.ascx.cs
+../*.aspx
+../*.aspx.cs
+../*.asmx
+../../../bin/SCC.*.dll
+../*.png
+../*.gif
+../../../../SCC.Modules.DotMap/Data/Sql/*.SqlDataProvider
+../App_LocalResources/*.resx
+../js/*.js
+../SampleUpload.csv
+../../../Default.aspx
+../../../App_Code/MapWebService.vb

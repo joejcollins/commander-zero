@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCC.Modules.DotMap", "SCC.Modules.DotMap\SCC.Modules.DotMap.csproj", "{DE53E8BE-A64A-43E4-A5DD-63222C3EA59C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transfer", "Transfer\Transfer.csproj", "{2E1AD05A-A3DD-450B-BC12-F99FFD9CD262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE53E8BE-A64A-43E4-A5DD-63222C3EA59C}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{DE53E8BE-A64A-43E4-A5DD-63222C3EA59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE53E8BE-A64A-43E4-A5DD-63222C3EA59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE53E8BE-A64A-43E4-A5DD-63222C3EA59C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{DE53E8BE-A64A-43E4-A5DD-63222C3EA59C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{DE53E8BE-A64A-43E4-A5DD-63222C3EA59C}.Release|.NET.ActiveCfg = Release|Any CPU
+		{DE53E8BE-A64A-43E4-A5DD-63222C3EA59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE53E8BE-A64A-43E4-A5DD-63222C3EA59C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE53E8BE-A64A-43E4-A5DD-63222C3EA59C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DE53E8BE-A64A-43E4-A5DD-63222C3EA59C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2E1AD05A-A3DD-450B-BC12-F99FFD9CD262}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{2E1AD05A-A3DD-450B-BC12-F99FFD9CD262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1AD05A-A3DD-450B-BC12-F99FFD9CD262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1AD05A-A3DD-450B-BC12-F99FFD9CD262}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2E1AD05A-A3DD-450B-BC12-F99FFD9CD262}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2E1AD05A-A3DD-450B-BC12-F99FFD9CD262}.Release|.NET.ActiveCfg = Release|Any CPU
+		{2E1AD05A-A3DD-450B-BC12-F99FFD9CD262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1AD05A-A3DD-450B-BC12-F99FFD9CD262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1AD05A-A3DD-450B-BC12-F99FFD9CD262}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2E1AD05A-A3DD-450B-BC12-F99FFD9CD262}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
